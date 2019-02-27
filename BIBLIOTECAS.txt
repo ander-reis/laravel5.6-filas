@@ -1,0 +1,27 @@
+é indicado para se usar quando gerar relatorios simples
+
+documentação: https://github.com/dompdf/dompdf
+
+biblioteca laravel dompdf
+https://github.com/barryvdh/laravel-dompdf
+
+*****************************************************************
+é indicado para se usar quando gerar relatorios complexos
+
+instalar biblioteca wkhtmltopdf
+https://wkhtmltopdf.org/
+
+documentação snappy
+https://github.com/KnpLabs/snappy
+
+laravel snappy
+https://github.com/barryvdh/laravel-snappy
+
+
+comandos para filas:
+desenvolvimento
+sync
+
+comando artisan
+php artisan queue:work
+
